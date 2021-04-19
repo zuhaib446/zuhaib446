@@ -4,7 +4,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@zuhaib446-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zuhaib446)](https://twitter.com/zuhaib446) [![Linkedin Badge](https://img.shields.io/badge/-zuhaib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhaib-akhtar-hunzai) [![Mail Badge](https://img.shields.io/badge/-@zuhaib.akhtar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zuhaib.hunzai) [![Mail Badge](https://img.shields.io/badge/-zuhaib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zuhaib.rustam@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@zuhaib446-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zuhaib446)](https://twitter.com/zuhaib446) [![Linkedin Badge](https://img.shields.io/badge/-zuhaib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhaib-akhtar-hunzai) [![Mail Badge](https://img.shields.io/badge/-@zuhaib.hunzai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zuhaib.hunzai) [![Mail Badge](https://img.shields.io/badge/-zuhaib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zuhaib.rustam@gmail.com)
 
 <!-- TODO: Add last video link -->
 
