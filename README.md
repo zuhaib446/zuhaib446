@@ -9,7 +9,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working 
-- :computer: Most used line of code `console.log()`
+- :computer: Most used line of code `console.log() or debugger`
 - 📫 How to reach me: zuhaib.rustam@gmail.com.
 - ⚡ Fun fact: ______.
 
