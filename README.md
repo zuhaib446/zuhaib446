@@ -1,4 +1,4 @@
-## Hi I'm Zuhaib Akhtar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="10px" alt="hi">
+## Hi I'm Zuhaib Akhtar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="10px" width="10px" alt="hi">
 
 Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript Nodejs / express.js /typescript.
 
